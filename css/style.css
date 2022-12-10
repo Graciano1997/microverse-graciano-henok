@@ -1,0 +1,25 @@
+
+ 
+#welcome-section{
+   
+    height:100vh;
+
+}
+
+#navbar{
+    margin-top: 0vh;
+    position: fixed;
+    padding-left: 70%;
+}
+
+#navbar ul li {
+    display:inline-block;
+
+}   
+
+@media (max-width: 600px){
+  #navbar {
+    margin-top: 0vh;
+    position: fixed;
+    padding-left: 70%;
+  }}
